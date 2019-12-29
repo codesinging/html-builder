@@ -1,0 +1,17 @@
+{
+    "name": "codesinging/html-builder",
+    "description": "A package to build HTML element for PHP web development.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codesinging",
+            "email": "codesinging@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CodeSinging\\HtmlBuilder\\": "src"
+        }
+    }
+}
